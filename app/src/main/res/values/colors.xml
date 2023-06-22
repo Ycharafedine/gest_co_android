@@ -3,6 +3,9 @@
 
     <resources>
         <color name="seed">#006b5c</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
         <color name="md_theme_light_primary">#006B5C</color>
         <color name="md_theme_light_onPrimary">#FFFFFF</color>
         <color name="md_theme_light_primaryContainer">#78F8DE</color>
